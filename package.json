@@ -1,6 +1,6 @@
 {
   "name": "@y3k00000/after",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiny little helper for async-await",
   "main": "index.js",
   "scripts": {
