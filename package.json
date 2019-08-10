@@ -1,0 +1,24 @@
+{
+  "name": "@y3k00000/after",
+  "version": "1.0.0",
+  "description": "Tiny little helper for async-await",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y3k00000/after-js.git"
+  },
+  "keywords": [
+    "javascript",
+    "async",
+    "await"
+  ],
+  "author": "y3k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/y3k00000/after-js/issues"
+  },
+  "homepage": "https://github.com/y3k00000/after-js#readme"
+}
